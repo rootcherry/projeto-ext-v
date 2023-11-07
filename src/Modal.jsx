@@ -1,8 +1,8 @@
-import { useGlobalContext } from "./context";
+// import { useGlobalContext } from "./context";
 
 const Modal = () => {
-  const { isModalOpen, closeModal } = useGlobalContext();
-  console.log(isModalOpen);
+  // const { isModalOpen, closeModal } = useGlobalContext();
+  // console.log(isModalOpen);
 
   return <div>Modal</div>;
 };
