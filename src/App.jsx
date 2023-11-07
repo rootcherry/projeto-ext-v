@@ -2,7 +2,7 @@ import Carousel from "./Carousel";
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <Carousel />
     </div>
   );
