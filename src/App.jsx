@@ -1,12 +1,10 @@
-import Home from "./Home";
-import Modal from "./Modal";
+import Carousel from "./Carousel";
 
 const App = () => {
   return (
-    <>
-      <Home />
-      <Modal />
-    </>
+    <div>
+      <Carousel />
+    </div>
   );
 };
 
