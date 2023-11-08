@@ -2,7 +2,7 @@ const items = [
   {
     title: "Introdução",
     description:
-      "Atualmente financiadores, cliente, consumidores e organizações incorporam critérios de ESG em suas decisões de investimentos, de consumo, compra, de fornecimento e de parcerias. A partir do relatório do pacto global da ONU empreses em todo o mundo passaram a se mobilizar para alinhar suas operações e estratégias com dez princípios universais nas áreas de direitos humanos, trabalho, meio ambiente e anticorrupção, assim, atraindo indústrias que colaboram com o desenvolvimento da região agindo com ética, respeito e transparência.",
+      "Atualmente financiadores, cliente, consumidores e organizações incorporam critérios de ESG em suas decisões de investimentos, de consumo, compra, de fornecimento e de parcerias. A partir do relatório do pacto global da ONU empresas em todo o mundo passaram a se mobilizar para alinhar suas operações e estratégias com dez princípios universais nas áreas de direitos humanos, trabalho, meio ambiente e anticorrupção, assim, atraindo indústrias que colaboram com o desenvolvimento da região agindo com ética, respeito e transparência.",
     image: "/src/assets/around-the-world.svg",
   },
   {

@@ -21,7 +21,7 @@ html {
 :root {
   /* colors */
   --white: #fff;
-  --text-h2: #34b34c; 
+  --text-h2: #34b34c;
   --text-p: #4c4c4c;
   --btn-hover: #71ce7e;
 }
@@ -37,13 +37,13 @@ Modal Carousel
   flex-direction: column;
   align-items: center;
   height: 100vh;
-  background-color: #354c87
+  background-color: #354c87;
   /* background-color: #85a8c5; */
 }
 
 .carousel {
   overflow: hidden;
-  width: 1200px;
+  width: 960px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -71,7 +71,7 @@ Modal Carousel
   color: #617d98;
 }
 .carousel-img {
-  width: 250px;
+  width: 25%;
   padding: 0 20px 0 20px;
 }
 
