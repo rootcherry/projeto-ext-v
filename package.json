@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rootcherry/projeto-ext-v/issues"
   },
-  "homepage": "https://github.com/rootcherry/projeto-ext-v#readme"
+  "homepage": "https://github.com/rootcherry/projeto-ext-v#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
