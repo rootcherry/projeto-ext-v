@@ -1,22 +1,19 @@
 # Sobre o projeto
 
-O Projeto de Extensão V **"Gestão de resíduos"** tem como objetivo proporcionar uma experiência de aprendizado interdisciplinar, onde alunos de diferentes campos se unirão para desenvolver jogos educativos interativos destinados a crianças.
+O Projeto de Extensão V **"Salve nosso Planeta"** tem como objetivo tratar questões sobre Sustentabilidade promovendo a inclusão da a comunidade e as indústrias para o desenvovilmento de sua região, assim, colaborando pra que o nosso planeta seja um lugar melhor pras próximas gerações.
 
 # Tecnologias utilizadas
 
-## Back end
-
-- JavaScript
-- NodeJS
-
 ## Front end
 
-- ReactJS
+- JavaScript
+- SCSS
+- CSS
+- HTML
 
-## API
+## Deploy
 
-- JSON
-- Heroku Server
+- Netlify
 
 ## Visualizar projeto:
 
